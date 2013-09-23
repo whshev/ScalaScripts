@@ -1,0 +1,11 @@
+[0m[[0mdebug[0m] [0mStarting sandboxed run...[0m
+[0m[[0mdebug[0m] [0mWaiting for threads to exit or System.exit to be called.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread run-main to exit[0m
+[0m[[0minfo[0m] [0mStarting scala interpreter...[0m
+[0m[[0mdebug[0m] [0m  Boot classpath: D:\Java\jdk1.7.0_25\jre\lib\resources.jar;D:\Java\jdk1.7.0_25\jre\lib\rt.jar;D:\Java\jdk1.7.0_25\jre\lib\sunrsasign.jar;D:\Java\jdk1.7.0_25\jre\lib\jsse.jar;D:\Java\jdk1.7.0_25\jre\lib\jce.jar;D:\Java\jdk1.7.0_25\jre\lib\charsets.jar;D:\Java\jdk1.7.0_25\jre\lib\jfr.jar;D:\Java\jdk1.7.0_25\jre\classes;C:\Users\whshev\.sbt\boot\scala-2.10.2\lib\scala-library.jar[0m
+[0m[[0mdebug[0m] [0m  Classpath: G:\Dropbox\Coursera\Scala\Assignment\recfun\target\scala-2.10\classes;C:\Users\whshev\.sbt\boot\scala-2.10.2\lib\scala-compiler.jar;C:\Users\whshev\.sbt\boot\scala-2.10.2\lib\jline.jar;C:\Users\whshev\.sbt\boot\scala-2.10.2\lib\scala-reflect.jar;C:\Users\whshev\.sbt\boot\scala-2.10.2\lib\jansi.jar[0m
+[0m[[0minfo[0m] [0m[0m
+[0m[[0mdebug[0m] [0m	Thread run-main exited.[0m
+[0m[[0mdebug[0m] [0mInterrupting remaining threads (should be all daemons).[0m
+[0m[[0mdebug[0m] [0mSandboxed run complete..[0m
+[0m[[0mdebug[0m] [0mExited with code 0[0m
