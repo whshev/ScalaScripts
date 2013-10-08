@@ -149,8 +149,8 @@ class NonEmpty(elem: Tweet, left: TweetSet, right: TweetSet) extends TweetSet {
     def findmax(x: Tweet, y: Tweet): Tweet = {
       if (x.retweets > y.retweets) x else y
     }
-  	if (left.isEmpty && right.isEmpty) elem
-  	else if (right.isEmpty) findmax(left.mostRetweeted, elem)
+    if (left.isEmpty && right.isEmpty) elem
+    else if (right.isEmpty) findmax(left.mostRetweeted, elem)
     else if (left.isEmpty) findmax(right.mostRetweeted, elem)
     else findmax(left.mostRetweeted, findmax(right.mostRetweeted, elem))
   }
